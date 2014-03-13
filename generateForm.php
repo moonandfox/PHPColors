@@ -49,7 +49,7 @@ foreach($colors as $fg){
 	echo'<option style = "'.$optionFg.'" value = "'.$fg.'" '.$selected.'>'.$fg.'</option>';
 }
 echo'</select>';
-echo'First name: <input type="text" name="firstname"><br>';
+echo'First name: <input type="text" name="firstname" maxlength="20"><br>';
 echo'<input type="submit" value="Submit">';
 echo '</form>';
 }
