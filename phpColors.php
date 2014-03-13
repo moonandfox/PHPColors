@@ -1,7 +1,7 @@
 <html>
 <head>
 	  <link rel = "stylesheet" type = "text/css" href = "css/colorStyles.css">
-	  <title> About Me </title>
+	  <title> PHP Colors </title>
 </head>
 <body>
  <?php 
